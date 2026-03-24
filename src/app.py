@@ -76,7 +76,7 @@ activities = {
                                                                                                                                                                                                                                                                                                                                                                         "participants": ["ava@mergington.edu", "ethan@mergington.edu"]
                                                                                                                                                                                                                                                                                                                                                                             }
                                                                                                                                                                                                                                                                                                                                                                             }
-}
+
 
 
 @app.get("/")
