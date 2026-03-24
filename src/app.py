@@ -93,7 +93,7 @@ def get_activities():
 def signup_for_activity(activity_name: str, email: str):
     """Sign up a student for an activity"""
     # Validate activity exists
-    # Validate student is not already signed up
+    # Validate student is not already signed up 
     
     if activity_name not in activities:
         raise HTTPException(status_code=404, detail="Activity not found")
